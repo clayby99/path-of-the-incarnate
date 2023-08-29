@@ -1,0 +1,41 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Path of the Incarnate",
+    "description": "Path of the Incarnate is an original mod list for OpenMW, aiming to offer a fresh, stable, and immersive Morrowind experience. This is all accomplished while preserving the alien charm the vanilla game exuded. From new quests, landmass overhauls & additions, hundreds of new items & NPCs, enhanced combat & leveling, graphical improvements, and much more, you'll be able to experience this Bethesda classic with 20+ years of community love, all in an easy-to-install package. ",
+    "author": "Clayby - BYC",
+    "maintainers": [
+      "github/clayby99"
+    ],
+    "game": "morrowind",
+    "tags": [
+      "OpenMW", 
+      "NeverNude",
+      "Lore-Friendly",
+      "Graphic Overhaul",
+      "Tamriel Rebuilt"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/clayby99/path-of-the-incarnate/main/POTI_Wabbajack.png",
+      "readme": "https://www.modlists.net/",
+      "download": "",
+      "machineURL": "poti",
+      "discordURL": "https://discord.gg/43EhRjU"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "k9L0CQkhvoM=",
+      "Size": 6937185,
+      "NumberOfArchives": 7609,
+      "SizeOfArchives": 13541133159,
+      "NumberOfInstalledFiles": 60906,
+      "SizeOfInstalledFiles": 23447837900
+    },
+    "version": "1.0.0.0"
+  }
+]
+
