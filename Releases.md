@@ -4,7 +4,7 @@
 
 ### Save Safe?: NO
 
-### Requires Lates OpenMW Development Build (.49)
+### Requires Latest OpenMW Development Build (.49)
 
 ### Added
 
