@@ -4,6 +4,8 @@
 
 ### Save Safe?: NO
 
+### Requires Lates OpenMW Development Build (.49)
+
 ### Added
 
 [Aether Pirate’s Discovery](https://www.nexusmods.com/morrowind/mods/53320)
