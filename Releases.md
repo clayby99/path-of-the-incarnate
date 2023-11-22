@@ -1,8 +1,10 @@
-# Release 1.1.0.0
+# Releases (Newest to Oldest)
 
-## Save Safe?: No
+Release 1.1.0.0
 
-## Added
+### Save Safe?: NO
+
+### Added
 
 [Aether Pirate’s Discovery](https://www.nexusmods.com/morrowind/mods/53320)
 
@@ -318,7 +320,7 @@
 
 [Vivec and Velothi - Arkitektora Vol.2](https://www.nexusmods.com/morrowind/mods/46266)
 
-## Updated
+### Updated
 
 A Cold Cell 1.0.3 to 1.0.4
 
@@ -382,7 +384,7 @@ Voiced Vivec and Yakety Yagrum - Merged and Improved 1.0 to 1.1
 
 Zack’s Lua Multimark Mod 1.1.1 to 1.2
 
-## Removed
+### Removed
 
 Apel's Fire Retexture Patched for OpenMW and Morrowind Rebirth
 
