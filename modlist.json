@@ -1,8 +1,10 @@
 [
   {
     "title": "Path of the Incarnate",
-    "description": "Path of the Incarnate is an original mod list for OpenMW, aiming to offer a fresh, stable, and immersive Morrowind experience. This is all accomplished while preserving the alien charm the vanilla game exuded. From new quests, landmass overhauls \u0026 additions, hundreds of new items \u0026 NPCs, enhanced combat \u0026 leveling, graphical improvements, and much more, you\u0027ll be able to experience this Bethesda classic with 20\u002B years of community love, all in an easy-to-install package. ",
-    "author": "Clayby - BYC",
+    "description": "Path of the Incarnate is a Wabbajack mod list for OpenMW. It's designed to offer a fresh, stable, and immersive experience for new and old players alike, without polishing off the alien charm that many fans of Morrowind have come to love. 
+
+From new quests, landmass overhauls & additions, hundreds of new items & NPCs, adjustments to combat & leveling, graphical overhauls, and much more, you'll be able to experience this Bethesda classic with 20+ years of community love, all in an easy-to-install package. ",
+    "author": "Clayby - Boneyard Creations",
     "maintainers": [
       "github/clayby99"
     ],
