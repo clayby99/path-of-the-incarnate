@@ -1,7 +1,7 @@
 [
   {
     "title": "Path of the Incarnate",
-    "description": "Path of the Incarnate is a Wabbajack mod list for OpenMW. It's designed to offer a fresh, stable, and immersive experience for new and old players alike, without polishing off the alien charm that many fans of Morrowind have come to love. From new quests, landmass overhauls & additions, hundreds of new items & NPCs, adjustments to combat & leveling, graphical overhauls, and much more, you'll be able to experience this Bethesda classic with 20+ years of community love, all in an easy-to-install package. ",
+    "description": "Path of the Incarnate is a Wabbajack mod list for OpenMW. It\u0027s designed to offer a fresh, stable, and immersive experience for new and old players alike, without polishing off the alien charm that many fans of Morrowind have come to love. From new quests, landmass overhauls \u0026 additions, hundreds of new items \u0026 NPCs, adjustments to combat \u0026 leveling, graphical overhauls, and much more, you\u0027ll be able to experience this Bethesda classic with 20\u002B years of community love, all in an easy-to-install package. ",
     "author": "Clayby - Boneyard Creations",
     "maintainers": [
       "github/clayby99"
@@ -23,21 +23,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/clayby99/path-of-the-incarnate/main/POTI_Wabbajack.png",
       "readme": "https://www.modlists.net/docs/6poti/Install",
-      "download": "https://authored-files.wabbajack.org/Path of the Incarnate.wabbajack_5b00a39f-0f15-46dc-a69f-08217c2470c9",
+      "download": "https://authored-files.wabbajack.org/Path of the Incarnate.wabbajack_f64aefbb-b9eb-412d-95d7-4e92c4281c80",
       "machineURL": "poti",
-      "discordURL": "https://discord.gg/43EhRjU"
+      "discordURL": "https://discord.gg/43EhRjU",
+      "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "TMcWMvOWhh0=",
-      "Size": 7392843,
-      "NumberOfArchives": 533,
-      "SizeOfArchives": 24086458446,
-      "NumberOfInstalledFiles": 71775,
-      "SizeOfInstalledFiles": 48998672357
+      "Hash": "Gp03X5d56G8=",
+      "Size": 17044975,
+      "NumberOfArchives": 836,
+      "SizeOfArchives": 24343893472,
+      "NumberOfInstalledFiles": 150962,
+      "SizeOfInstalledFiles": 48916063546,
+      "TotalSize": 73259957018
     },
     "version": "2.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-12-01T21:35:12.8359621Z",
+    "dateUpdated": "2025-06-18T23:25:22.7168087Z",
     "repositoryName": ""
   }
 ]
