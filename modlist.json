@@ -19,7 +19,7 @@
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/clayby99/path-of-the-incarnate/main/POTI_Wabbajack.png",
       "readme": "https://www.modlists.net/docs/8poti/Home",
