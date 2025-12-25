@@ -23,23 +23,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/clayby99/path-of-the-incarnate/main/POTI_Wabbajack.png",
       "readme": "https://www.modlists.net/docs/6poti/Install",
-      "download": "https://authored-files.wabbajack.org/Path of the Incarnate.wabbajack_c888aee7-6c37-44e4-9575-e3546d8df778",
+      "download": "https://authored-files.wabbajack.org/Path of the Incarnate.wabbajack_230104a8-aa6a-47c0-9032-46907e55a068",
       "machineURL": "poti",
       "discordURL": "https://discord.gg/43EhRjU",
       "websiteURL": "https://www.modlists.net/docs/6poti/Home"
     },
     "download_metadata": {
-      "Hash": "Z2K+KzxlXNA=",
-      "Size": 17375285,
-      "NumberOfArchives": 834,
-      "SizeOfArchives": 24004746451,
-      "NumberOfInstalledFiles": 151076,
-      "SizeOfInstalledFiles": 48415704835,
-      "TotalSize": 72420451286
+      "Hash": "8K5APDk7AQE=",
+      "Size": 20403394,
+      "NumberOfArchives": 886,
+      "SizeOfArchives": 24671207822,
+      "NumberOfInstalledFiles": 152871,
+      "SizeOfInstalledFiles": 49571528080,
+      "TotalSize": 74242735902
     },
-    "version": "2.0.1.1",
+    "version": "2.1.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-06-28T19:11:36.1109037Z",
+    "dateUpdated": "2025-12-25T18:09:19.0729201Z",
     "repositoryName": ""
   }
 ]
